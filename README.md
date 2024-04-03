@@ -12,7 +12,7 @@
 + 🖥️ Working on cleaning up my first projects.
 + 💡 Thinking about what to work on next.
 + ➕ Hoping to contribute to open source.
-+ 🧰 Currently comfortable working with Java, C/C++, C#, and HTML.
++ 🧰 Currently comfortable working with `Java`, `C/C++`, `C#`, and `HTML/CSS`.
 
 <div>
   <h3>Contacts:</h3>
