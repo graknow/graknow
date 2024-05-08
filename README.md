@@ -1,4 +1,4 @@
-<h1>Hello there :D</h1>
+<h1>Hello there</h1>
 
 <h3>I'm a Computer Science student who is trying his best.</h4>
 <div>
