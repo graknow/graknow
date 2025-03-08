@@ -1,5 +1,3 @@
-<h1>Hello there</h1>
-
 <h3>I'm a Computer Science student.</h3>
 <div>
   <p>Name: Grant Knowlton</p>
