@@ -1,4 +1,3 @@
-<h3>I'm an Electrical Engineering and Computer Science student.</h3>
 <div>
   <p>Name: Grant Knowlton</p>
   <p>Pronouns: He/Him</p>
